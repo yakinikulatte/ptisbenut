@@ -22,7 +22,7 @@ document.write(`
                 <li><a href="pdpfasa1.html">PdP FASA 1 (SEWA GUNA)</a></li>
                 <li><a href="pdpfasa2.html">PdP FASA 2 (SEWA GUNA)</a></li>
                 <li><a href="pdpfasa3.html">PdP FASA 3 (SEWA GUNA)</a></li>
-                <li><a href="#">SEWAAN PdT FASA 1 (SEWA GUNA)</a></li>
+                <li><a href="pdtfasa1.html">SEWAAN PdT FASA 1 (SEWA GUNA)</a></li>
                 <li><a href="#">SEWAAN PdT FASA 2 (SEWA MILIK)</a></li>
                 <li><a href="#">SEWAAN PdT FASA 3 (SEWA MILIK)</a></li>
                 <li><a href="perantigurufasa1.html">PERANTI GURU KPM FASA 1 (SEWA MILIK)</a></li>
