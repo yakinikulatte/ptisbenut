@@ -1,0 +1,444 @@
+<!DOCTYPE HTML>
+<!--
+    Editorial by HTML5 UP
+    html5up.net | @ajlkn
+-->
+<html>
+    <head>
+        <title>Peranti Guru Fasa 2 (Sewa Milik) - Pasukan Teknikal ICT Benut</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+        <link rel="stylesheet" href="assets/css/main.css" />
+    </head>
+    <body class="is-preload">
+
+        <!-- Wrapper -->
+            <div id="wrapper">
+
+                <!-- Main -->
+                    <div id="main">
+                        <div class="inner">
+
+                            <!-- Header -->
+                                <header id="header">
+                                    <a href="index.html" class="logo"><strong>Aset Sewaan</strong> Zon Benut</a>
+                                    <ul class="icons">
+                                        <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+                                        <li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+                                        <li><a href="#" class="icon brands fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
+                                        <li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+                                    </ul>
+                                </header>
+
+                            <!-- Content Utama -->
+                                <section>
+                                    <header class="main">
+                                        <h1>Peranti Guru Fasa 2 (Sewa Milik)</h1>
+                                    </header>
+
+                                    <p>Halaman ini memaparkan kemaskini status kerja-kerja penyelenggaraan serta jumlah bekalan <strong>Peranti Guru Fasa 2 (Sewa Milik)</strong> di sekolah-sekolah penerima bawah Zon Benut.</p>
+
+                                    <!-- MULA RINGKASAN DATA -->
+                                    <div style="margin: 2.5em 0 1em 0; padding: 25px; background: #f8f9fa; border-left: 8px solid #3182ce; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.03);">
+                                        <div style="font-size: 1.8em; font-weight: bold; color: #2d3748; letter-spacing: 0.5px; margin-bottom: 8px;">
+                                            Jumlah Sekolah Terlibat : 27
+                                        </div>
+                                        <div style="font-size: 1.1em; color: #4a5568;">
+                                            <i class="icon solid fa-building" style="color: #3182ce; margin-right: 10px;"></i><strong>Vendor :</strong> ANTARAGRAFIK (KL)
+                                        </div>
+                                    </div>
+                                    <!-- TAMAT RINGKASAN DATA -->
+
+                                    <!-- MULA GRID CARD -->
+                                    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 1.5em; margin-bottom: 3em;">
+
+                                        <!-- Sekolah 1 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#1</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JBA6037</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SEKOLAH KEBANGSAAN SANGLANG</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>3</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 2 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#2</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JBA6039</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SEKOLAH KEBANGSAAN SERI ANOM</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>3</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 3 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#3</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JBA6041</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SEKOLAH KEBANGSAAN BENUT</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>4</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 4 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#4</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JBA6042</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SEKOLAH KEBANGSAAN SERI SINARAN</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>3</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 5 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#5</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JBA6043</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SEKOLAH KEBANGSAAN SERI BUGIS</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>3</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 6 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#6</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JBA6044</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SEKOLAH KEBANGSAAN SERI SEMANGAT</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>3</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 7 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#7</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JBA6045</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SEKOLAH KEBANGSAAN SERI JAYA</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>3</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 8 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#8</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JBA6046</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SEKOLAH KEBANGSAAN SERI SETIA</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>3</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 9 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#9</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JBA6047</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SEKOLAH KEBANGSAAN SERI BAHAGIA</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>3</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 10 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#10</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JBA6048</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SEKOLAH KEBANGSAAN SERI KEMBAR</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>3</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 11 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#11</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JBA6049</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SEKOLAH KEBANGSAAN SERI AL ULUM</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>3</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 12 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#12</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JBA6050</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SEKOLAH KEBANGSAAN SERI SENANG HATI</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>3</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 13 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#13</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JBA6051</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SEKOLAH KEBANGSAAN PARIT MARKOM</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>3</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 14 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#14</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JBB6021</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SEKOLAH KEBANGSAAN SRI BENUT</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>3</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 15 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#15</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JBC6009</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SJK(C) LEE MING</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>3</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 16 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#16</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JBC6010</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SJK(C) LOK YORK</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>3</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 17 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#17</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JBC6011</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SJK(C) LOK YU 1</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>3</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 18 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#18</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JBC6012</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SJK(C) LOK YU(2)</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>3</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 19 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#19</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JBC6013</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SJK(C) LOK YU 3</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>3</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 20 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#20</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JBC6014</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SJK(C) LOK YU 4</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>2</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 21 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#21</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JBC6015</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SJK(C) LOK YU 6</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>3</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 22 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#22</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JCT6001</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SEKOLAH RENDAH AGAMA BERSEPADU PONTIAN</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>3</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 23 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#23</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JEA6005</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SEKOLAH MENENGAH KEBANGSAAN SRI TANJUNG</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>9</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 24 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#24</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JEA6009</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SEKOLAH MENENGAH KEBANGSAAN PARIT BETAK</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>7</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 25 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#25</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JEE6017</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SEKOLAH MENENGAH KEBANGSAAN BENUT</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>9</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 26 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#26</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JFT6001</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SEKOLAH MENENGAH AGAMA (ARAB) AN-NUR</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>4</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Sekolah 27 -->
+                                        <div style="position: relative; background: #ffffff; border-top: 4px solid #28a745; padding: 25px 20px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; transition: transform 0.2s;">
+                                            <span style="position: absolute; top: 12px; left: 15px; background: #f4f4f4; color: #888; font-size: 0.85em; font-weight: bold; padding: 3px 8px; border-radius: 5px;">#27</span>
+                                            <p style="margin: 0; font-size: 0.9em; color: #a0a0a0; font-weight: bold; letter-spacing: 1px;">JFT6003</p>
+                                            <h3 style="margin: 10px 0 15px 0; font-size: 1.1em; color: #3c3b3b; line-height: 1.4;">SEKOLAH MENENGAH AGAMA BUGISIAH</h3>
+                                            <div style="display: grid; grid-template-columns: 1fr; gap: 6px; margin-bottom: 20px; font-size: 0.85em; color: #555; text-align: left; background: #f8f9fa; padding: 12px 20px; border-radius: 8px; border: 1px solid #edf2f7;">
+                                                <div>💻 Notebook: <strong>5</strong></div>
+                                            </div>
+                                            <div style="background: rgba(40, 167, 69, 0.1); display: inline-block; padding: 8px 15px; border-radius: 20px;">
+                                                <span style="color: #28a745; font-weight: bold; font-size: 0.85em;"><i class="icon solid fa-check-circle"></i> Selesai</span>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <!-- TAMAT GRID CARD -->
+
+                                </section>
+
+                        </div>
+                    </div>
+
+                <!-- Sidebar -->
+                    <div id="sidebar">
+                        <div class="inner">
+
+                            <!-- Search -->
+                                <section id="search" class="alt">
+                                    <form method="post" action="#">
+                                        <input type="text" name="query" id="query" placeholder="Search" />
+                                    </form>
+                                </section>
+
+                            <!-- Panggil Semua Komponen Sidebar Guna JS -->
+                                <script src="menu.js"></script>
+                                <script src="artikel.js"></script>
+                                <script src="hubungi.js"></script>
+                                <script src="footer.js"></script>
+
+                        </div>
+                    </div>
+
+            </div>
+
+        <!-- Scripts -->
+            <script src="assets/js/jquery.min.js"></script>
+            <script src="assets/js/browser.min.js"></script>
+            <script src="assets/js/breakpoints.min.js"></script>
+            <script src="assets/js/util.js"></script>
+            <script src="assets/js/main.js"></script>
+
+    </body>
+</html>
