@@ -27,7 +27,7 @@ document.write(`
                 <li><a href="#">SEWAAN PdT FASA 3 (SEWA MILIK)</a></li>
                 <li><a href="perantigurufasa1.html">PERANTI GURU KPM FASA 1 (SEWA MILIK)</a></li>
                 <li><a href="#">PdP FASA 4 (SEWA GUNA)</a></li>
-                <li><a href="#">PERANTI GURU KPM FASA 2 (SEWA MILIK)</a></li>
+                <li><a href="perantigurufasa2.html">PERANTI GURU KPM FASA 2 (SEWA MILIK)</a></li>
             </ul>
         </li>
     </ul>
